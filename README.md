@@ -2,6 +2,7 @@
 
 Changed font to Roboto, which is better looking on my 720p screen.
 Forked from Furfx, who made the original (by kas) transparent.
+Compiled with Visual Studio 2017.
 
 ## Original project by kas
 https://github.com/kas/percentage
