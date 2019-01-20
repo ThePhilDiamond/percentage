@@ -4,6 +4,10 @@ Changed font to Roboto (https://fonts.google.com/specimen/Roboto), which is bett
 Forked from Furfx, who made the original (by kas) transparent.
 Compiled with Visual Studio 2017.
 
+File exe available here: https://github.com/EdoGimo/percentage/releases/tag/v1.3.0
+
+(direct link to my versione because of the mess I made with all the releases)
+
 ## Original project by kas
 https://github.com/kas/percentage
 
