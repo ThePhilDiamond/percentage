@@ -9,8 +9,8 @@ namespace percentage
     {
         [DllImport("user32.dll", CharSet = CharSet.Auto)]
         static extern bool DestroyIcon(IntPtr handle);
-        private const string iconFont = "Segoe UI";
-        private const int iconFontSize = 14;
+        private const string iconFont = "Roboto";
+        private const int iconFontSize = 28;
         private string batteryPercentage;
         private NotifyIcon notifyIcon;
 
@@ -82,7 +82,7 @@ namespace percentage
         private Image DrawText(String text, Font font, Color textColor, Color backColor)
         {
             var textSize = GetImageSize(text, font);
-            Image image = new Bitmap((int) textSize.Width, (int) textSize.Height);
+            Image image = new Bitmap(50, 42);
             using (Graphics graphics = Graphics.FromImage(image))
             {
                 // paint the background
