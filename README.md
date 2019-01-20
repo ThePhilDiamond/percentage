@@ -6,7 +6,7 @@ Compiled with Visual Studio 2017.
 
 File exe available here: https://github.com/EdoGimo/percentage/releases/tag/v1.3.0
 
-(direct link to my versione because of the mess I made with all the releases)
+(direct link to my version because of the mess I made with all the releases)
 
 ## Original project by kas
 https://github.com/kas/percentage
