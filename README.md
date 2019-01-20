@@ -1,5 +1,8 @@
 # percentage
 
+Changed font to Roboto, which is better looking on my 720p screen.
+Forked from Furfx, who made the original (by kas) transparent.
+
 ## Original project by kas
 https://github.com/kas/percentage
 
