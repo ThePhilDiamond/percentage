@@ -1,7 +1,7 @@
 # percentage
 
-Changed font to Roboto (https://fonts.google.com/specimen/Roboto) to make it better looking on my 720p screen. 
-At full battery the '100' gets cut though.
+Changed font to Roboto (https://fonts.google.com/specimen/Roboto) to make it better looking (taller) on my 720p screen. 
+At full battery the '100' is too wide and gets cut though.
 Forked from Furfx, who made the original (by kas) transparent.
 Compiled with Visual Studio 2017.
 
