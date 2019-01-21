@@ -1,6 +1,6 @@
 # percentage
 
-Changed font to Roboto (https://fonts.google.com/specimen/Roboto), which is better looking on my 720p screen.
+Changed font to Roboto (https://fonts.google.com/specimen/Roboto) to make it better looking on my 720p screen.
 Forked from Furfx, who made the original (by kas) transparent.
 Compiled with Visual Studio 2017.
 
