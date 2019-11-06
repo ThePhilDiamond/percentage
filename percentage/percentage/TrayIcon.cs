@@ -45,7 +45,7 @@ namespace percentage
         private void timer_Tick(object sender, EventArgs e)
         {
             PowerStatus powerStatus = SystemInformation.PowerStatus;
-            batteryPercentage = $"{(powerStatus.BatteryLifePercent * 100)}";
+            batteryPercentage = $"{(powerStatus.BatteryLifePercent * 100)}" + "%";
 
 
             using (Bitmap bitmap = new Bitmap(DrawText(batteryPercentage, new Font(iconFont, iconFontSize), Color.White, Color.Transparent)))
